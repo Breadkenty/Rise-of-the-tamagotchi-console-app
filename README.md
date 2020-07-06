@@ -1,4 +1,6 @@
-# Tamagotchi Console Application
+# 04-04 Rise of the Tamagotchi Console Application
+
+<img src="demo.gif" width="600">
 
 _This Aplication is used in tandem with the Tamagotchi API_
 
